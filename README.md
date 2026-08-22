@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarvesh Gonge
+<h2 align="center">👋 Hi, I'm Sarvesh Gonge</h2>
 
 <h3 align="center">Java Full Stack Developer | DSA Enthusiast | Software Developer</h3>
 
@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/>
   </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack
