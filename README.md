@@ -17,25 +17,22 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sarvesh-gonge">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="42" height="42" alt="LeetCode"/>
+    <img src="https://img.icons8.com/?size=48&id=9L16NypUzu38&format=png" width="40" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://instagram.com/sarvesh_gonge">
-    <img src="https://cdn.simpleicons.org/instagram" width="42" height="42" alt="Instagram"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/@Sarvesh_gonge">
-    <img src="https://cdn.simpleicons.org/x" width="42" height="42" alt="X"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40" alt="X"/>
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:sarveshgonge@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="42" height="42" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
   </a>
 </p>
+
 
 ---
 
