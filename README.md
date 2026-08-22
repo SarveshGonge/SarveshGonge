@@ -29,13 +29,13 @@ I'm a passionate **Computer Science student and software developer** who enjoys 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c" height="45" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,js" height="45" alt="Languages"/>
   
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" height="45" alt="Frontend"/>
 
   <img src="https://skillicons.dev/icons?i=spring,hibernate" height="45" alt="Backend"/>
 
-  <img src="https://skillicons.dev/icons?i=oracle,postgresql,mongodb" height="45" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=oracle,postgresql" height="45" alt="Databases"/>
 
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven" height="45" alt="Tools"/>
 </p>
