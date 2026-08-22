@@ -12,10 +12,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SarveshGonge&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Snake Game Repo View -->
 
----
-[![](https://komarev.com/ghpvc/?username=SarveshGonge&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
