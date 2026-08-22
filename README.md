@@ -21,7 +21,7 @@
   </a>
   &nbsp;&nbsp;
   
- <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
+ <a href="https://leetcode.com/Sarvesh_Gonge/">
     <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="40" height="40" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
