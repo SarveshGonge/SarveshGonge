@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Sarvesh Gonge</h2>
+<h1 align="center">👋 Hi, I'm Sarvesh Gonge</h1>
 
 <h3 align="center">Java Full Stack Developer | DSA Enthusiast | Software Developer</h3>
 
