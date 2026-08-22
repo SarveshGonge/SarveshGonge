@@ -15,24 +15,7 @@
 
 ## 🌐 Socials
 
-<p align="center">
-  <a href="https://instagram.com/sarvesh_gonge">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/sarvesh-gonge">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/@Sarvesh_gonge">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:sarveshgonge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+<p align="center"> <a href="https://linkedin.com/in/sarvesh-gonge"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/sarvesh-nilesh-gonge/"> <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" height="45" alt="LeetCode"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/sarvesh_gonge"> <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://x.com/@Sarvesh_gonge"> <img src="https://cdn.simpleicons.org/x/000000" width="45" height="45" alt="X"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:sarveshgonge@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/> </a> </p>
 ---
 
 ## 💻 Tech Stack
