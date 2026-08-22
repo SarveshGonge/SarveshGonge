@@ -15,24 +15,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/sarvesh-gonge">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
-    <img src="https://img.icons8.com/?size=48&id=9L16NypUzu38&format=png" width="40" alt="LeetCode"/>
-  </a>
-  <a href="https://instagram.com/sarvesh_gonge">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/@Sarvesh_gonge">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40" alt="X"/>
-  </a>
-  <a href="mailto:sarveshgonge@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
-  </a>
-</p>
-
+<p align="center"> <a href="https://linkedin.com/in/sarvesh-gonge"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/sarvesh-nilesh-gonge/"> <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" height="50" alt="LeetCode"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://instagram.com/sarvesh_gonge"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://x.com/@Sarvesh_gonge"> <img src="https://cdn.simpleicons.org/x/000000" width="50" height="50" alt="X"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:sarveshgonge@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email"/> </a> </p>
 
 ---
 
