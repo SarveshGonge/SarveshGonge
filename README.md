@@ -17,27 +17,27 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sarvesh-gonge">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   
  <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
-    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="55" height="55" alt="LeetCode"/>
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="40" height="40" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
   
   <a href="https://instagram.com/sarvesh_gonge">
-    <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
   
   <a href="https://x.com/@Sarvesh_gonge">
-    <img src="https://skillicons.dev/icons?i=twitter" width="55" height="55" alt="X"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X"/>
   </a>
   &nbsp;&nbsp;
   
   <a href="mailto:sarveshgonge@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email"/>
   </a>
 </p>
 ---
