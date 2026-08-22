@@ -21,10 +21,12 @@
   </a>
   &nbsp;&nbsp;
   
-  <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
-    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="55" height="55" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;
+ <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
+  <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" 
+       width="55" height="55" 
+       style="background-color:white; border-radius:12px; padding:5px;" 
+       alt="LeetCode"/>
+</a>
   
   <a href="https://instagram.com/sarvesh_gonge">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" height="55" alt="Instagram"/>
