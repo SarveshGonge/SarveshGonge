@@ -1,83 +1,43 @@
-# 👋 Hi, I'm Sarvesh Gonge
+<h1 align="center">👋 Hi, I'm Sarvesh Gonge</h1>
 
-<h3 align="center">Java Full Stack Developer | DSA Enthusiast | Software Developer</h3>
+<h3 align="center">A Passionate Software Developer From India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://github.com/SarveshGonge">
-    <img src="https://komarev.com/ghpvc/?username=SarveshGonge&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/SarveshGonge?tab=followers">
-    <img src="https://img.shields.io/github/followers/SarveshGonge?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sarveshgonge&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🛠️ Languages & Tools
 
-I'm a passionate **Computer Science student and software developer** who enjoys building practical applications and solving programming problems.
-
-* 💻 Focused on **Java, Spring Boot, React & SQL**
-* 🧠 Currently improving my **Data Structures & Algorithms** skills
-* 🔨 Building **full-stack web applications**
-* 🌱 Continuously learning new technologies and development practices
-* 🎯 Interested in **Java Backend / Full Stack Development**
-* 📚 Practicing **DSA and Java interview questions**
-* 📫 Reach me at **[sarveshgonge@gmail.com](mailto:sarveshgonge@gmail.com)**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c" height="45" alt="Languages"/>
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" height="45" alt="Frontend"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" height="45" alt="Backend"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=oracle,postgresql,mongodb" height="45" alt="Databases"/>
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven" height="45" alt="Tools"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarveshGonge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshGonge&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarveshgonge&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarveshgonge&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SarveshGonge&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sarveshgonge&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -85,48 +45,33 @@ I'm a passionate **Computer Science student and software developer** who enjoys 
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/sarvesh-gonge">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/SarveshGonge">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/sarvesh_gonge">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-</a>
-
-</p>
-
-<p align="center">
-  <a href="mailto:sarveshgonge@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sarveshgonge%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://twitter.com/@sarvesh_gonge">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sarvesh-gonge">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/sarvesh_gonge">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
   </a>
 </p>
 
 ---
 
-## ⚡ Current Focus
-
-```text
-☕ Java & Spring Boot
-🧩 Data Structures & Algorithms
-⚛️ React
-🗄️ SQL & Database Management
-🔐 REST APIs & Authentication
-🚀 Building Real-World Projects
-```
-
----
+## 📫 Contact
 
 <p align="center">
-  <b>💡 "Code. Learn. Build. Repeat."</b>
+  <a href="mailto:sarveshgonge@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sarveshgonge%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
+  ⭐ Thanks for visiting my profile!
 </p>
