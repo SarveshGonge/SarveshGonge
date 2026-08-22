@@ -13,9 +13,30 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/sarvesh-gonge"> <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/sarvesh-nilesh-gonge/"> <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/sarvesh_gonge"> <img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" alt="Instagram"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://x.com/@Sarvesh_gonge"> <img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:sarveshgonge@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Email"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sarvesh-gonge">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/sarvesh-nilesh-gonge/">
+    <img src="https://cdn.simpleicons.org/leetcode" width="42" height="42" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/sarvesh_gonge">
+    <img src="https://cdn.simpleicons.org/instagram" width="42" height="42" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/@Sarvesh_gonge">
+    <img src="https://cdn.simpleicons.org/x" width="42" height="42" alt="X"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sarveshgonge@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="42" height="42" alt="Email"/>
+  </a>
+</p>
+
 ---
 
 ## 💻 Tech Stack
