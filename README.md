@@ -28,25 +28,17 @@ I'm a passionate **Computer Science student and software developer** who enjoys 
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,c" height="45" alt="Languages"/>
 </p>
-
-### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" height="45" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend & Frameworks
-
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate" height="45" alt="Backend"/>
 </p>
-
-### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=oracle,postgresql,mongodb" height="45" alt="Databases"/>
